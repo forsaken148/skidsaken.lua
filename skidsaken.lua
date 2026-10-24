@@ -8,13 +8,13 @@ do
 
     local v2 = lib:CreateLoading({
         Title = "skidsaken",
-        Icon = "rbxassetid://10604789",
+        Icon = "rbxassetid://74998074904568",
         TotalSteps = 7,
         ShowSidebar = true,
     })
 
-    v2.Sidebar:AddLabel("<font color=\"rgb(140, 80, 255)\">Vexsaken 6.9</font>", true)
-    v2.Sidebar:AddLabel("<font color=\"rgb(180, 180, 180)\">by Sphynx / Luna</font>", true)
+    v2.Sidebar:AddLabel("<font color=\"rgb(140, 80, 255)\">skidsaken v1.1</font>", true)
+    v2.Sidebar:AddLabel("<font color=\"rgb(180, 180, 180)\">by Ethan / Yvonne</font>", true)
     v2.Sidebar:AddDivider({MarginTop = 2, MarginBottom = 2})
     v2.Sidebar:AddLabel("Press <font color=\"rgb(140,80,255)\">P</font> to toggle the menu once loaded.", true)
     v2:SetMessage("Downloading modules...")
