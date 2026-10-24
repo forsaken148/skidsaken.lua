@@ -107,12 +107,12 @@ do
     v2:Continue()
 
     v = lib:CreateWindow({
-        Title = "Vexsaken",
+        Title = "skidsaken",
         Icon = "rbxassetid://106047893866515",
-        Footer = "Vexsaken 6.9 [ Revamped ]",
+        Footer = "skidsaken 1.1 [ Rewrite ]",
         Center = true,
         AutoShow = true,
-        Folder = "Vexsaken",
+        Folder = "skidsaken",
         ToggleKeybind = Enum.KeyCode.P,
     })
 
